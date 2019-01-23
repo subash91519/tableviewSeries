@@ -1,0 +1,1 @@
+Discussed about plain and grouped tableviews and how we can separate into sections

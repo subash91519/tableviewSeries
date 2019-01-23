@@ -1,0 +1,1 @@
+Discussed about dequeuing and cell reusing / memory optimisations
