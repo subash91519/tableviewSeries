@@ -1,0 +1,1 @@
+Introduction about tableview. How it works and what are the delegate methods to confirm to populate tableview cell and compulsory methods.
